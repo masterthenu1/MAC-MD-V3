@@ -20,7 +20,7 @@
 ---
 Scan QR Code
 
-1. ***Get [SESSION-ID](https://replit.com/@maccoder74/MAC-Md?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://inrl-web-fkns.onrender.com/viwe/friendpage) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/masterthenu1/MAC-MD-V3/fork)***
